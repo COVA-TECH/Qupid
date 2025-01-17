@@ -1,0 +1,2 @@
+    // "dev": "cross-env NODE_ENV=development node ./dev-server.js",
+    	"build": "react-router build && node vercel/prepare.js",
